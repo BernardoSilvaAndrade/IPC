@@ -1,0 +1,9 @@
+8 10
+H  R  R R 
+R  R R R R 
+R R R  R R 
+R RR RR RR 
+R R  RRRRR
+R RRRRRRR 
+R       Z     
+RRRRRRRRR        
